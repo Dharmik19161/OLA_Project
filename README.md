@@ -21,7 +21,7 @@ This repository contains a data analytics project analyzing a simulated dataset 
   -	Ride Volume Over Time
   -	Booking Status Breakdown
 2.	Vehicle Type
-	-	Top 5 Vehicle Types by Ride Distance
+  - Top 5 Vehicle Types by Ride Distance
 3.	Revenue
   -	Revenue by Payment Method
   -	Top 5 Customers by Total Booking Value
@@ -32,3 +32,15 @@ This repository contains a data analytics project analyzing a simulated dataset 
 5.	Ratings
   -	Driver Ratings
   -	Customer Ratings
+
+## Dashboards
+<img width="1278" height="711" alt="Overall_Dashboard" src="https://github.com/user-attachments/assets/03edd4b0-f9ac-4f10-b102-f1596bcb1c6e" />
+<img width="1401" height="795" alt="VehicleType_Dashboard" src="https://github.com/user-attachments/assets/d86f446d-8028-4278-ad8e-bccd7b0ca248" />
+<img width="1423" height="796" alt="Revenue_Dashboard" src="https://github.com/user-attachments/assets/77ba8e33-30d8-4568-ae70-262902b5238a" />
+<img width="1427" height="797" alt="Cancellation_Dashboard" src="https://github.com/user-attachments/assets/05e715b8-6664-4d05-a3c6-3bc2bde2c5cc" />
+<img width="1391" height="792" alt="Rating_Dashboard" src="https://github.com/user-attachments/assets/1a67f83b-be1f-4d0f-88ea-203627a9e664" />
+
+
+
+
+
