@@ -41,6 +41,18 @@ This repository contains a data analytics project analyzing a simulated dataset 
 <img width="1391" height="792" alt="Rating_Dashboard" src="https://github.com/user-attachments/assets/1a67f83b-be1f-4d0f-88ea-203627a9e664" />
 
 
+## Project Insight
+- While OLA maintains a stable 62% ride success rate, a massive 38% of potential revenue is lost to cancellations and incomplete rides. Minimizing these leaks represents the fastest path to revenue growth without needing to acquire new customers.
+- Customer-initiated cancellations are low (capped at 7%), but the primary trigger—"Driver is not moving towards pickup location"—points to severe traffic navigation issues or driver hesitation in Bengaluru's congested zones.
+- There is a heavy surge in ride volumes and booking values during weekends and cricket match days. This highlights a critical need for dynamic pricing and targeted driver supply placement during major local events.
+- Driver-initiated cancellations are a major operational hurdle, capped at 18%. The dominant reason, "Personal & Car related issues," suggests that fleet fatigue and vehicle wear-and-tear are directly bottlenecking driver availability.
+- Approximately 70% of bookings are low-value rides under ₹500. While these high-frequency, low-ticket rides (like Auto, Bike, and Mini) drive daily volume, the remaining 30% of high-value rides (above ₹500/₹1000) represent the high-margin segment that needs premium service protection.
+
+## Final Conclusion:
+
+The OLA Bengaluru Ride Analysis successfully bridges raw operational data with strategic business intelligence. The findings show that while OLA maintains a healthy 62% ride success rate in Bengaluru, significant revenue is left on the table due to driver-side cancellations (up to 18%) and operational delays. The sharp rise in demand during weekends and cricket matches reveals an immediate need for dynamic demand-supply matching and localized driver incentives during high-traffic events.
+
+
 
 
 
